@@ -12,7 +12,7 @@ export class Navbar extends React.Component {
                 <button type="button">
                   <i className="fa fa-camera"></i>
                 </button>
-                <a className="navbar-brand" href="#">Mystagram</a>
+                <a className="navbar-brand" href="#">Instaclone</a>
                 <button type="button">
                   <i className="fa fa-paper-plane"></i>
                 </button>
